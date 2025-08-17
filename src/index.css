@@ -1,0 +1,4 @@
+:root { --gap: 1rem; }
+body { background-color:#f8f9fa; }
+img { object-fit: cover; }
+header .display-6 { text-shadow: 0 2px 12px rgba(0,0,0,.35); }
