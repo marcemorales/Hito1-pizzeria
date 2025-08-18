@@ -18,4 +18,4 @@ http://localhost:5173/
 - Se observa:
 <img src="src/assets/ProyectoReact.png" alt="print-pagina">
 
-- Se observa en github pages en 
+- Se observa en github pages en https://marcemorales.github.io/Hito1-pizzeria/  (no logré hacer que se pudiera ver píblico sólo de manera local )
