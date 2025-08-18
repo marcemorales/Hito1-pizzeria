@@ -11,11 +11,15 @@ npm i
 
 npm run dev
 
-3) Abre la URL que indique Vite. En mi servidor local:
+3) Abrí la URL que indique Vite. En mi servidor local:
 
 http://localhost:5173/
 
 - Se observa:
 <img src="src/assets/ProyectoReact.png" alt="print-pagina">
 
-- Se observa en github pages en https://marcemorales.github.io/Hito1-pizzeria/  (no logré hacer que se pudiera ver píblico sólo de manera local )
+- No pude hacer que se viera en github pages en https://marcemorales.github.io/Hito1-pizzeria/  (no logré hacer que se pudiera ver público sólo de manera local)
+¿Me pueden orientar?
+
+------
+Marcela Morales Peralta
